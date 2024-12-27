@@ -1,0 +1,34 @@
+{
+    "template": [
+      {
+        "catname": "Birthday Temp",
+        "Birthday": [
+          {
+            "sample": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/1/Thumbnail.png",
+            "Background": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/1/background.png",
+            "forground": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/1/forground.png"
+          },
+          {
+            "sample": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/2/thumbnail.png",
+            "Background": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/2/background.png",
+            "forground": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/2/forground.png"
+          }
+        ]
+      },
+      {
+        "catname": "Nature Temp",
+        "Nature": [
+          {
+            "sample": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/3/thumbnail.png",
+            "Background": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/3/background.png",
+            "forground": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/3/forground.png"
+          },
+          {
+            "sample": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/4/thumbnail.png",
+            "Background": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/4/background.png",
+            "forground": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/4/forground.png"
+          }
+        ]
+      }
+    ]
+  }
