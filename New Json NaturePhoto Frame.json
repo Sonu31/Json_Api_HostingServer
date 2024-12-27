@@ -1,0 +1,36 @@
+{
+  "template": [
+    {
+      "cat_Icon": "https://img.freepik.com/free-vector/hand-drawn-sweet-16-youtube-thumbnail_23-2149303673.jpg?t=st=1735282313~exp=1735285913~hmac=1c4ce2b68a80af448fe93a38cf15968dbc603eacf3cd68f96ff2f096d988562d&w=740",
+      "cat_Name": "Birthday Temp",
+      "frame_Template_List": [
+        {
+          "sample": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/1/Thumbnail.png",
+          "background": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/1/background.png",
+          "forground": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/1/forground.png"
+        },
+        {
+          "sample": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/2/thumbnail.png",
+          "background": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/2/background.png",
+          "forground": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/2/forground.png"
+        }
+      ]
+    },
+    {
+      "cat_Icon": "https://img.freepik.com/free-vector/hand-drawn-sweet-16-youtube-thumbnail_23-2149303673.jpg?t=st=1735282313~exp=1735285913~hmac=1c4ce2b68a80af448fe93a38cf15968dbc603eacf3cd68f96ff2f096d988562d&w=740",
+      "cat_Name": "Nature Temp",
+      "frame_Template_List": [
+        {
+          "sample": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/3/thumbnail.png",
+          "background": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/3/background.png",
+          "forground": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/3/forground.png"
+        },
+        {
+          "sample": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/4/thumbnail.png",
+          "background": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/4/background.png",
+          "forground": "https://naturephotoframe.s3.ap-southeast-2.amazonaws.com/Layer+Photo+Frame/Birthday/4/forground.png"
+        }
+      ]
+    }
+  ]
+}
